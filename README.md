@@ -50,8 +50,8 @@
 * 04.2023 ISTQB Foundation Level
 
 ## Courses:
-* 03-04.2023 Automation Tester
-* 02-03.2023 Manual Tester
+* 03-04.2023 Automation Tester, Coders Lab
+* 02-03.2023 Manual Tester, Coders Lab
 
 ## Connect with me
 
