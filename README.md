@@ -19,6 +19,8 @@
 ![](https://img.shields.io/badge/-JUnit-0A1A5A?style=flat&logo=junit)
 ![](https://img.shields.io/badge/-Cucumber-0A1A5A?style=flat&logo=cucumber)
 ![](https://img.shields.io/badge/-Gherkin-0A1A5A?style=flat&logo=gherkin)
+![](https://img.shields.io/badge/-PageObjectPattern-0A1A5A?style=flat&logo=pageobjectpattern)
+![](https://img.shields.io/badge/-PageFactory-0A1A5A?style=flat&logo=pagefactory)
 
 * ![](https://img.shields.io/badge/-SQL-0A1A5A?style=flat&logo=sql)
 ![](https://img.shields.io/badge/-MySQL-0A1A5A?style=flat&logo=mysql)
