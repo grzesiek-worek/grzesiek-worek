@@ -64,6 +64,6 @@
 
 
 ## Stats
-![Grzegorz's GitHub stats](https://github-readme-stats.vercel.app/api?username=grzesiek-worek&count_private=true&show_icons=true&theme=dark)
+![Grzegorz's GitHub stats](https://github-readme-stats.vercel.app/api?username=grzesiek-worek&count_private=true&show_icons=true&theme=dark&PAT1)
 [![GitHub Streak](https://streak-stats.demolab.com?user=grzesiek-worek&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grzesiek-worek&layout=compact)](https://github.com/grzesiek-worek/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grzesiek-worek&layout=compact&PAT1)](https://github.com/grzesiek-worek/github-readme-stats)
