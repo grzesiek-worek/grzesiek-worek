@@ -49,11 +49,11 @@
 ![](https://img.shields.io/badge/-BPMN-0A1A5A?style=flat&logo=bpmn)
 
 ## Certificate:
-* 04.2023 ISTQB Foundation Level
+* April 2023 ISTQB Foundation Level
 
 ## Courses:
-* 03-04.2023 Automation Tester, Coders Lab
-* 02-03.2023 Manual Tester, Coders Lab
+* March - May 2023: Automation Tester, Coders Lab
+* February - March: 2023 Manual Tester, Coders Lab
 
 ## Connect with me
 
