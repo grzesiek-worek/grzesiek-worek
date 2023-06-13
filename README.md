@@ -15,12 +15,16 @@
 
 * ![](https://img.shields.io/badge/-Java-0A1A5A?style=flat&logo=java)
 ![](https://img.shields.io/badge/-Selenium-0A1A5A?style=flat&logo=selenium)
-![](https://img.shields.io/badge/-WebDriver-0A1A5A?style=flat&logo=webdriver)
+![](https://img.shields.io/badge/-Selenide-0A1A5A?style=flat&logo=selenide)
 ![](https://img.shields.io/badge/-JUnit-0A1A5A?style=flat&logo=junit)
+![](https://img.shields.io/badge/-TestNG-0A1A5A?style=flat&logo=testng)
 ![](https://img.shields.io/badge/-Cucumber-0A1A5A?style=flat&logo=cucumber)
 ![](https://img.shields.io/badge/-Gherkin-0A1A5A?style=flat&logo=gherkin)
+![](https://img.shields.io/badge/-OOP-0A1A5A?style=flat&logo=oop)
+![](https://img.shields.io/badge/-WebDriver-0A1A5A?style=flat&logo=webdriver)
 ![](https://img.shields.io/badge/-PageObjectPattern-0A1A5A?style=flat&logo=pageobjectpattern)
 ![](https://img.shields.io/badge/-PageFactory-0A1A5A?style=flat&logo=pagefactory)
+![](https://img.shields.io/badge/-PageObjectModel-0A1A5A?style=flat&logo=pageobjectmodel)
 
 * ![](https://img.shields.io/badge/-SQL-0A1A5A?style=flat&logo=sql)
 ![](https://img.shields.io/badge/-MySQL-0A1A5A?style=flat&logo=mysql)
