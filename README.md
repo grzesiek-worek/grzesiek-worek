@@ -2,18 +2,18 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - ![](https://user-images.githubusercontent.com/17746067/227568311-367d1abb-d4e8-4545-a2b6-5df510c49ad7.svg)
-  I am a Manual and Automated Tester **looking for an opportunity to gain experience** (**work after the internship or earlier**).
+  I am a Manual, Automation and Performance Tester **looking for an opportunity to gain experience**.
 - 💬 **Talk to me about opportunities for development and gaining experience**.
 - ⚡ I possess the ability to think analiytically with strong attention to detail, plan and learn quickly.
 - 📝 I improve my skills and knowledge every day.
 - 📖 I have a ISTQB Foundation Level certificate and updated the knowledge to the new version.
 - 📖 I completed a Manual Tester course and Automation Tester Course in Coders Lab.
-- 💻 I use daily: **Java**, **IntelliJ**, **Jira** and **Xray**.
-- 💻 I use daily: **.java**, **.sql**, **.html**, **.css**, **.feature**.
+- 💻 I use daily: **Java**, **IntelliJ**, **Jira**, **Xray** and **JMeter**.
+- 💻 I use daily: **.java**, **.sql**, **.html**, **.css**, **.feature** and **.jmx**.
 - 👯 We can connect to play some games of Chess ♟ or meet and play in 🏐,⚽ or 🏀.
 
 ## 🧑‍💻 Exprerience:
-* July - December 2023 - internship at T-Mobile Polska as a Manual and Automation Software Tester
+* July 2023 - present - Manual, Automation and Performance Tester, T-Mobile Polska.
 
 ## 🧑‍💻 Technology and tools I work on :
 
@@ -29,13 +29,14 @@
 ![](https://img.shields.io/badge/-PageObjectPattern-0A1A5A?style=flat&logo=pageobjectpattern)
 ![](https://img.shields.io/badge/-PageFactory-0A1A5A?style=flat&logo=pagefactory)
 ![](https://img.shields.io/badge/-PageObjectModel-0A1A5A?style=flat&logo=pageobjectmodel)
+![](https://img.shields.io/badge/-RestAssured-0A1A5A?style=flat&logo=RestAssured)
 
 * ![](https://img.shields.io/badge/-SQL-0A1A5A?style=flat&logo=sql)
 ![](https://img.shields.io/badge/-MySQL-0A1A5A?style=flat&logo=mysql)
 
 * ![](https://img.shields.io/badge/-Jira-0A1A5A?style=flat&logo=jira)
-  ![](https://img.shields.io/badge/-TestFlo-0A1A5A?style=flat&logo=testflo)
 ![](https://img.shields.io/badge/-Xray-0A1A5A?style=flat&logo=xray)
+![](https://img.shields.io/badge/-TestFlo-0A1A5A?style=flat&logo=testflo)
 ![](https://img.shields.io/badge/-TestLink-0A1A5A?style=flat&logo=testlink)
 
 * ![](https://img.shields.io/badge/-JMeter-0A1A5A?style=flat&logo=jmeter)
@@ -50,7 +51,9 @@
 ![](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A5A?style=flat&logo=visual-studio-code)
 ![](https://img.shields.io/badge/-Git-0A1A5A?style=flat&logo=git)
 ![](https://img.shields.io/badge/-GitHub-0A1A5A?style=flat&logo=github)
-![](https://img.shields.io/badge/-HTML-0A1A5A?style=flat&logo=html)
+![](https://img.shields.io/badge/-Jenkins-0A1A5A?style=flat&logo=jenkins)
+
+* ![](https://img.shields.io/badge/-HTML-0A1A5A?style=flat&logo=html)
 ![](https://img.shields.io/badge/-CSS-0A1A5A?style=flat&logo=css)
 
 * ![](https://img.shields.io/badge/-Agile-0A1A5A?style=flat&logo=agile)
@@ -59,8 +62,11 @@
 ![](https://img.shields.io/badge/-BPMN-0A1A5A?style=flat&logo=bpmn)
 
 ## Certificate:
+* May 2024: Sages - Performance testing of web applications using Apache JMeter
+* November 2023: Sages - RestAssured - automation of functional tests of REST API services
+* October 2023: Sages - Basics of REST API testing
+* September 2023: Sages - ISTQB Foundation Level - update the knowledge to the new version
 * April 2023: ISTQB Foundation Level
-* September 2023: update the knowledge to the new version ISTQB Foundation Level
 
 ## Courses:
 * March - May 2023: Automation Tester, Coders Lab
