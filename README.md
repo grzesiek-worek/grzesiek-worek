@@ -8,16 +8,17 @@
 - 📝 I improve my skills and knowledge every day.
 - 📖 I have a ISTQB Foundation Level certificate and updated the knowledge to the new version.
 - 📖 I completed a Manual Tester course and Automation Tester Course in Coders Lab.
-- 💻 I use daily: **Java**, **IntelliJ**, **Jira**, **Xray** and **JMeter**.
+- 💻 I use daily: **Java**, **IntelliJ**, **Jira**, **Xray**, **JMeter**, **Docker** and **Python**.
 - 💻 I use daily: **.java**, **.sql**, **.html**, **.css**, **.feature** and **.jmx**.
 - 👯 We can connect to play some games of Chess ♟ or meet and play in 🏐,⚽ or 🏀.
 
 ## 🧑‍💻 Exprerience:
-* July 2023 - present - Manual, Automation and Performance Tester, T-Mobile Polska.
+* July 2023 - present - Automation and Performance Tester, T-Mobile Polska.
 
 ## 🧑‍💻 Technology and tools I work on :
 
 * ![](https://img.shields.io/badge/-Java-0A1A5A?style=flat&logo=java)
+![](https://img.shields.io/badge/-Spring-0A1A5A?style=flat&logo=spring)
 ![](https://img.shields.io/badge/-Selenium-0A1A5A?style=flat&logo=selenium)
 ![](https://img.shields.io/badge/-Selenide-0A1A5A?style=flat&logo=selenide)
 ![](https://img.shields.io/badge/-JUnit-0A1A5A?style=flat&logo=junit)
@@ -31,18 +32,27 @@
 ![](https://img.shields.io/badge/-PageObjectModel-0A1A5A?style=flat&logo=pageobjectmodel)
 ![](https://img.shields.io/badge/-RestAssured-0A1A5A?style=flat&logo=RestAssured)
 
+* ![](https://img.shields.io/badge/-AI-0A1A5A?style=flat&logo=AI)
+![](https://img.shields.io/badge/-RAG-0A1A5A?style=flat&logo=RAG)
+![](https://img.shields.io/badge/-Copilot-0A1A5A?style=flat&logo=Copilot)
+![](https://img.shields.io/badge/-n8n-0A1A5A?style=flat&logo=n8n)
+![](https://img.shields.io/badge/-Ollama-0A1A5A?style=flat&logo=Ollama)
+![](https://img.shields.io/badge/-Chroma-0A1A5A?style=flat&logo=Chroma)
+![](https://img.shields.io/badge/-ProcessAutomation-0A1A5A?style=flat&logo=ProcessAutomation)
+
 * ![](https://img.shields.io/badge/-SQL-0A1A5A?style=flat&logo=sql)
 ![](https://img.shields.io/badge/-MySQL-0A1A5A?style=flat&logo=mysql)
+![](https://img.shields.io/badge/-MongoDB-0A1A5A?style=flat&logo=MongoDb)
 
 * ![](https://img.shields.io/badge/-Jira-0A1A5A?style=flat&logo=jira)
 ![](https://img.shields.io/badge/-Xray-0A1A5A?style=flat&logo=xray)
 ![](https://img.shields.io/badge/-TestFlo-0A1A5A?style=flat&logo=testflo)
 ![](https://img.shields.io/badge/-TestLink-0A1A5A?style=flat&logo=testlink)
+![](https://img.shields.io/badge/-Allure-0A1A5A?style=flat&logo=Allure)
 
 * ![](https://img.shields.io/badge/-JMeter-0A1A5A?style=flat&logo=jmeter)
 ![](https://img.shields.io/badge/-API-0A1A5A?style=flat&logo=api)
 ![](https://img.shields.io/badge/-REST-0A1A5A?style=flat&logo=rest)
-![](https://img.shields.io/badge/-BDD-0A1A5A?style=flat&logo=BDD)
 ![](https://img.shields.io/badge/-Postman-0A1A5A?style=flat&logo=postman)
 ![](https://img.shields.io/badge/-SoapUI-0A1A5A?style=flat&logo=soapui)
 ![](https://img.shields.io/badge/-DevTools-0A1A5A?style=flat&logo=devtools)
@@ -52,6 +62,7 @@
 ![](https://img.shields.io/badge/-Git-0A1A5A?style=flat&logo=git)
 ![](https://img.shields.io/badge/-GitHub-0A1A5A?style=flat&logo=github)
 ![](https://img.shields.io/badge/-Jenkins-0A1A5A?style=flat&logo=jenkins)
+![](https://img.shields.io/badge/-Docker-0A1A5A?style=flat&logo=Docker)
 
 * ![](https://img.shields.io/badge/-HTML-0A1A5A?style=flat&logo=html)
 ![](https://img.shields.io/badge/-CSS-0A1A5A?style=flat&logo=css)
@@ -62,6 +73,7 @@
 ![](https://img.shields.io/badge/-BPMN-0A1A5A?style=flat&logo=bpmn)
 
 ## Certificate:
+* Many more courses and trainings – details on LinkedIn
 * May 2024: Sages - Performance testing of web applications using Apache JMeter
 * November 2023: Sages - RestAssured - automation of functional tests of REST API services
 * October 2023: Sages - Basics of REST API testing
